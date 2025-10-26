@@ -292,9 +292,16 @@ body::after {
     flex-direction: column;
     align-items: center;
   }
+  .carousel {
+    max-width: 100%;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    background: #404040;
+  }
   .carousel-caption,
   .stacked-caption {
-    font-size: 13px;
+    font-size: 8px;
   }
   .youtube-video {
     max-width: 100%;
