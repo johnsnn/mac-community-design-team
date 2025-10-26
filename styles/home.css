@@ -21,7 +21,7 @@ body {
 
 body::before {
   content: "";
-  background: url("/images/background.JPG") center/cover no-repeat;
+  background: url("/mac-community-design-team/images/background.JPG") center/cover no-repeat;
   background-attachment: fixed;
   position: fixed;
   inset: 0;
