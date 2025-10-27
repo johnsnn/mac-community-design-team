@@ -22,7 +22,7 @@ body {
 body::before {
   content: "";
   background: url("https://maccommunitydesignteam.com/images/background.JPG") center/cover no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
   position: fixed;
   inset: 0;
   opacity: 0.65;
